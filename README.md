@@ -1,5 +1,5 @@
 # POC-4: Project Details Extraction (Vision + OCR Pipeline)
-
+ 
 ## Overview
 
 This project extracts structured **project/title block details** from engineering drawings using a hybrid pipeline combining **OCR + Vision-based AI**.
