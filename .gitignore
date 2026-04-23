@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# Outputs
+outputs/
+vision_super_extractor/output/
+
+# OS
+.DS_Store
+Thumbs.db
