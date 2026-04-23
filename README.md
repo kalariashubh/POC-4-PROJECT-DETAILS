@@ -81,18 +81,6 @@ python pipeline/run_pipeline.py
 
 ---
 
-## 📂 Output
-
-For each input file, the pipeline creates:
-
-```
-outputs/
-└── <input_filename>/
-    ├── <input_filename>.json
-    ├── <input_filename>.png
-    └── <input_filename>_crop.png
-```
-
 ## 🧠 Notes
 
 - Works best with clean engineering drawings  
